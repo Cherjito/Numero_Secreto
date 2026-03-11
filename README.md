@@ -2,7 +2,7 @@
 Este proyecto consiste en un simulador desarrollado en **Python** diseñado para evaluar procesos de negocio mediante la generación de valores aleatorios, el almacenamiento de datos históricos y el cálculo de alguna métrica.
 
 ## Aplicación en Entornos de Negocio
-Aunque el script utiliza una lógica de "número secreto" para su ejecución, el modelo es **totalmente escalable**. La variable `numero_secreto` puede ser sustituida fácilmente por indicadores críticos de gestión como:
+Aunque el script utiliza una lógica de **Adivinar** el "número secreto" para su ejecución, el modelo es **totalmente escalable**. La variable `numero_secreto` puede ser **sustituida** fácilmente por indicadores críticos de gestión como:
 * **Objetivos de Facturación:** Evaluar la probabilidad de alcanzar una cifra de ventas.
 * **Cuotas de Ventas:** Simular escenarios de demanda por producto.
 * **En el apartado de:** "Escribe un número del 1 al 100" se podria poner algo como "Escribe las ventas/facturación de hoy" y con eso devolver algo como "El objetivo de diario no/si se ha cumplido" y calcular estadisticos que nos ayuden a preveer la probabilidad de que la facturación en un dia futuro sea mayor, menor o igual a un objetivo preestablecido
@@ -34,4 +34,4 @@ Al finalizar cada ejecución, el programa arroja un análisis detallado:
 - "De 10 usuarios, 2 acertaron a la primera"
 
 ---
-Desarrollado por **Sergio Ruiz Gutiérrez** como parte de mi enfoque en Análisis de Datos y Logística.
+Primer Proyecto desarrollado por **Sergio Ruiz Gutiérrez** como parte de mi enfoque en Análisis de Datos y Logística.
